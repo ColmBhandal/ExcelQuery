@@ -1,7 +1,5 @@
 # C# Excel Query
 
-[![pipeline status](https://gitlab.com/hectorjsmith/csharp-performance-recorder/badges/master/pipeline.svg)](https://gitlab.com/hectorjsmith/csharp-performance-recorder/commits/master)
-
 C# library for recording queries
 
 ## How to Use
