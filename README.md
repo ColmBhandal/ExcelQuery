@@ -1,3 +1,5 @@
+**THIS PROJECT IS A WORK IN PROGRESS**
+
 # C# Excel Query
 
 C# library for recording queries
